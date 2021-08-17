@@ -79,20 +79,20 @@ Clone the above 10-Team-Generator repo and install the node packages listed abov
 
 ##### ✨Sample HTML file (index.html):
 
-![sample generated index.html file](./assets/sample-html-1.PNG)
+![sample generated index.html file](./assets/sample-html-1.png)
 
-![(continued) sample generated index.html file](./assets/sample-html-2.PNG)
+![(continued) sample generated index.html file](./assets/sample-html-2.png)
 
 📸The screenshot above shows a sample generated index.html containing user inputs from the terminal.
 
 
 
-![Terminal Screenshot](./assets/terminal.PNG)
+![Terminal Screenshot](./assets/terminal.png)
 
 📸 As pictured, the application runs from the terminal using node. 
 
 
 
-![Screenshot of Browser](./assets/webpage.PNG)
+![Screenshot of Browser](./assets/webpage.png)
 
 💻 Here is an example of the generated Team Profile Roster from the demo video.
