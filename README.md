@@ -51,9 +51,9 @@ THEN I exit the application, and the HTML is generated
 
 
 
-#### Installation
+#### Installation: Inquirer and Jest Packages Required
 
-Please install the node packages INQUIRER in your terminal  to use this application.
+📦Please install the node package INQUIRER in your terminal  to use this application. This package is used so that the roster can be filled out in the terminal and generated into a webpage application.
 
 In order to run tests on the application, install the JEST package, and run `npm run test`  from the terminal.
 
@@ -84,7 +84,7 @@ Clone the above 10-Team-Generator repo and install the node packages listed abov
 
 ![(continued) sample generated index.html file](C:\Users\Hannah\Documents\GitHub\10-Team-Profile-Generator\assets\sample-html-2.PNG)
 
-The screenshot above shows a sample generated index.html containing user inputs from the terminal.
+📸The screenshot above shows a sample generated index.html containing user inputs from the terminal.
 
 
 
@@ -96,4 +96,4 @@ The screenshot above shows a sample generated index.html containing user inputs 
 
 ![Screenshot of Browser](C:\Users\Hannah\Documents\GitHub\10-Team-Profile-Generator\assets\webpage.PNG)
 
-📸 Here is the example of the generated Team Profile Roster from the demo video.
+💻 Here is an example of the generated Team Profile Roster from the demo video.
