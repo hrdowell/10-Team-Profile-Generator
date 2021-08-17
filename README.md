@@ -4,14 +4,13 @@
 
 ### ✨About
 
-The Team Profile Generator is a Node.js command-line application that takes in information about engineering employees, then creates an HTML webpage that displays profile summaries for each person.
+The Team Profile Generator is a Node.js command-line application that takes in information about engineering employees (managers💼, engineers👩‍🔬, and interns☕), then creates an HTML webpage that displays profile summaries for each person.
 
 - Github Profile: http://github.com/hrdowell
 - Github Repository: http://github/hrdowell/10-Team-Profile-Generator
   - index.html in the dist repository contains a sample HTML file. 
 - Github Pages: https://hrdowell.github.io/10-Team-Profile-Generator/
-
-
+- Demo Video: https://vimeo.com/588180988
 
 
 
@@ -49,18 +48,18 @@ THEN I exit the application, and the HTML is generated
 
 
 
-
-
 #### Installation: Inquirer and Jest Packages Required
 
 📦Please install the node package INQUIRER in your terminal  to use this application. This package is used so that the roster can be filled out in the terminal and generated into a webpage application.
 
-In order to run tests on the application, install the JEST package, and run `npm run test`  from the terminal.
+Enter the following code in the terminal to install the packages:
 
 ```
 npm install inquirer
 npm install jest
 ```
+
+In order to run tests on the application, install the JEST package, and run `npm run test`  from the terminal.
 
 
 
@@ -90,7 +89,7 @@ Clone the above 10-Team-Generator repo and install the node packages listed abov
 
 ![Terminal Screenshot](C:\Users\Hannah\Documents\GitHub\10-Team-Profile-Generator\assets\terminal.PNG)
 
-📸As pictured, the application runs from the terminal using node. 
+📸 As pictured, the application runs from the terminal using node. 
 
 
 
