@@ -91,7 +91,9 @@ Clone the above 10-Team-Generator repo and install the node packages listed abov
 
 📸 As pictured, the application runs from the terminal using node. 
 
-
+<p>
+    <img src="assets/webpage.png" width="220" height="240" />
+</p>
 
 ![Screenshot of Browser](./assets/webpage.png)
 
