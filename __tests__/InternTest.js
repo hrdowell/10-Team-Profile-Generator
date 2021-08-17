@@ -1,7 +1,7 @@
 const Intern = require('../lib/Intern');
 const { expectToBe, expectStr, expectNum } = require('../utils/expect');
 
-const intern = new Intern('John', 'Doe', 1, 'UCF');
+const intern = new Intern('John', 'Doe', 1, 'Northwestern');
 
 test('creates an intern object', () => {
     expectToBe(intern.firstName, 'John');
